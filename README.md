@@ -22,9 +22,9 @@
 <section style="border: 1px solid #ccc; padding: 20px;">
   <h2>Projects</h2>
   <ul>
-    <li><a href="[link](https://belster.itch.io/echomaze)">EchoMaze</a>Surounded by enemies and needs to navigate through to avoid them and find the keys to get to the next level and finish each stage to finally escape.</li>
-    <li><a href="[link](https://www.youtube.com/watch?v=A6oRReaCtJo)">To The Goood Days</a>Third person survival shooter game made in the map of Lahore from scratch as our final year project.</li>
-    <li><a href="[link](https://www.youtube.com/watch?v=s9mr7-Zk_CE)">SparShot</a>A mobile board game for you to play with friends and family on a single phone.</li>
+    <li><a href="https://belster.itch.io/echomaze"> EchoMaze</a>Surounded by enemies and needs to navigate through to avoid them and find the keys to get to the next level and finish each stage to finally escape.</li>
+    <li><a href="https://www.youtube.com/watch?v=A6oRReaCtJo">To The Goood Days</a>Third person survival shooter game made in the map of Lahore from scratch as our final year project.</li>
+    <li><a href="https://www.youtube.com/watch?v=s9mr7-Zk_CE">SparShot</a>A mobile board game for you to play with friends and family on a single phone.</li>
   </ul>
 </section>
 
@@ -32,7 +32,7 @@
 <section style="padding: 20px;">
   <h2>Connect with Me</h2>
   <ul>
-    <li><a href="https://www.linkedin.com/in/nomi404"><img src="linkedin-icon.png" alt="LinkedIn"> LinkedIn</a></li>
-    <li><a href="https://hackerone.com/nomi404"><img src="hackerone-icon.png" alt="Hackerone"> Hackerone</a></li>
+    <li><a href="https://www.linkedin.com/in/nomi404"> LinkedIn</a></li>
+    <li><a href="https://hackerone.com/nomi404"> Hackerone</a></li>
   </ul>
 </section>
