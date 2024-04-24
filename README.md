@@ -1,38 +1,52 @@
-<!-- Add a header with a custom background color and text color -->
 <header style="background-color: #333; color: #fff; padding: 20px;">
-  <h1>Hi there, I'm Malik Nouman Ali! 👋</h1>
+  <h1>Hi there, I'm Malik Nouman Ali! </h1>
 </header>
 
-<!-- Add a section for your bio with a custom font -->
 <section style="font-family: 'Arial', sans-serif; padding: 20px;">
   <h2>About Me</h2>
-  <p>I'm a computer scientist development and technology. Originally from Lahore,PK , currently living in Prague,CZ.</p>
+  <p>I'm a computer scientist with a passion for development and technology. Originally from Lahore, Pakistan, I currently live in Prague, Czech Republic.</p>
 </section>
 
-<!-- Add a section for your skills with a custom background color -->
 <section style="background-color: #f0f0f0; padding: 20px;">
   <h2>Skills</h2>
   <ul>
-    <li>Programming Languages: C++, C#/.net, Python, Sql,</li>
-    <li>Technologies: Unity, UnrealEngine, OpenGl, Gtest, Burp suite, Pentesting, Git, Jira</li>
+    <li>Programming Languages: C++, C#/.net, Python, Sql</li>
+    <li>Technologies: Unity, UnrealEngine, OpenGL, Gtest, Burp Suite, Penetration Testing, Git, Jira</li>
   </ul>
 </section>
 
-<!-- Add a section for your projects with a custom border -->
 <section style="border: 1px solid #ccc; padding: 20px;">
   <h2>Projects</h2>
   <ul>
-    <li><a href="https://belster.itch.io/echomaze"> EchoMaze</a>Surounded by enemies and needs to navigate through to avoid them and find the keys to get to the next level and finish each stage to finally escape.</li>
-    <li><a href="https://www.youtube.com/watch?v=A6oRReaCtJo">To The Goood Days</a>Third person survival shooter game made in the map of Lahore from scratch as our final year project.</li>
-    <li><a href="https://www.youtube.com/watch?v=s9mr7-Zk_CE">SparShot</a>A mobile board game for you to play with friends and family on a single phone.</li>
+    <li>
+      <a href="https://belster.itch.io/echomaze">EchoMaze</a> - 
+      A downloadable game for Windows where you play as a blind person navigating a maze to avoid enemies and find keys.
+    </li>
+    <li>
+      <a href="https://www.youtube.com/watch?v=A6oRReaCtJo">To The Goood Days</a> - 
+      Third-person survival shooter game set in a recreated map of Lahore (final year project).
+    </li>
+    <li>
+      <a href="https://www.youtube.com/watch?v=s9mr7-Zk_CE">SparShot</a> - 
+      A mobile board game for single-device multiplayer fun.
+    </li>
   </ul>
 </section>
 
-<!-- Add a section for connecting with you with custom icons -->
 <section style="padding: 20px;">
   <h2>Connect with Me</h2>
   <ul>
-    <li><a href="https://www.linkedin.com/in/nomi404"> LinkedIn</a></li>
-    <li><a href="https://hackerone.com/nomi404"> Hackerone</a></li>
+    <li>
+      <a href="https://www.linkedin.com/in/nomi404">
+        LinkedIn <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+    <li>
+      <a href="https://hackerone.com/nomi404">
+        HackerOne <i class="fas fa-bug"></i>
+      </a>
+    </li>
   </ul>
 </section>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
