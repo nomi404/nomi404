@@ -1,6 +1,6 @@
 <!-- Add a header with a custom background color and text color -->
 <header style="background-color: #333; color: #000000; padding: 20px;">
-  <h1>Hi there, I'm Malik Nouman Ali]! 👋</h1>
+  <h1>Hi there, I'm Malik Nouman Ali! 👋</h1>
 </header>
 
 <!-- Add a section for your bio with a custom font -->
