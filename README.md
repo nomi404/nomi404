@@ -1,12 +1,12 @@
 <!-- Add a header with a custom background color and text color -->
-<header style="background-color: #333; color: #fff; padding: 20px;">
-  <h1>Hi there, I'm [Your Name]! 👋</h1>
+<header style="background-color: #333; color: #000000; padding: 20px;">
+  <h1>Hi there, I'm Malik Nouman Ali]! 👋</h1>
 </header>
 
 <!-- Add a section for your bio with a custom font -->
 <section style="font-family: 'Arial', sans-serif; padding: 20px;">
   <h2>About Me</h2>
-  <p>I'm a computer scientist at Porsche Engineering with a passion for visual computing and game development. Originally from Lahore, currently living in Prague.</p>
+  <p>I'm a computer scientist with a passion for development and technology. Originally from Lahore,PK , currently living in Prague,CZ.</p>
 </section>
 
 <!-- Add a section for your skills with a custom background color -->
