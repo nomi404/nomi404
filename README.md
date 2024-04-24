@@ -11,7 +11,7 @@
   <h2>Skills</h2>
   <ul>
     <li>Programming Languages: C++, C#/.net, Python, Sql</li>
-    <li>Technologies: Unity, UnrealEngine, OpenGL, Gtest, Burp Suite, Penetration Testing, Git, Jira</li>
+    <li>Technologies: Unity, UnrealEngine, OpenGL, Gtest, Burp Suite, Git, Jira</li>
   </ul>
 </section>
 
