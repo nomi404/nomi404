@@ -36,6 +36,11 @@
 <section style="padding: 20px;">
   <h2>Connect with Me</h2>
   <ul>
+      <li>
+      <a href="https://maliknouman.netlify.app/">
+        My Website <i class="fas fa-bug"></i>
+      </a>
+    </li>
     <li>
       <a href="https://www.linkedin.com/in/nomi404">
         LinkedIn <i class="fab fa-linkedin"></i>
